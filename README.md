@@ -1,5 +1,5 @@
 
-<img width+"1024" height+"1536" alt+"98ecefb6-5c4f-4734-baee-cc3ffabe3cb4" src+"https://github.com/user-attachments/assets/79d0d772-9e79-43b8-b650-420260efc49b" />
+<img width="1024" height="1536" alt="98ecefb6-5c4f-4734-baee-cc3ffabe3cb4" src="https://github.com/user-attachments/assets/79d0d772-9e79-43b8-b650-420260efc49b" />
 
 > 🔥 Ultimate AutoClicker
 
@@ -20,6 +20,7 @@
 > > Take automation to a professional level. 🏆
 
 > Ultimate AutoClicker is more than just an auto-clicker; it's a tool that makes your work faster and easier. Give it a try and see for yourself! 👍🎉
+
 
 
 
